@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#09C"
+    android:background="#5C617A"
     android:padding="@dimen/widget_margin" >
 
     <!-- Panel for Widget ID -->
